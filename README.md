@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Hi+There!;Welcome+to+my+GitHub+profile.;It's+nice+to+see+you+here!;Feel+free+in+browseing." alt="Typing SVG">
+
+</div>
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/nikita-kravcenko-1ba4511a4" target="_blank">
