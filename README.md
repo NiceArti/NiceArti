@@ -4,6 +4,10 @@
 
 </div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=NiceArti&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/nikita-kravcenko-1ba4511a4" target="_blank">
@@ -81,10 +85,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NiceArti&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NiceArti&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceArti&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=NiceArti&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiceArti&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-width: 900px;" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiceArti&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak Stats" style="width: 100%; max-width: 900px;" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceArti&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; max-width: 900px;" />
+</div>
