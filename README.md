@@ -86,11 +86,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NiceArti&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiceArti&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 100%; max-width: 900px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NiceArti&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%; max-width: 900px;" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiceArti&theme=catppuccin_mocha&hide_border=true" alt="GitHub Streak Stats" style="width: 100%; max-width: 900px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiceArti&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="width: 100%; max-width: 900px;" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceArti&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 100%; max-width: 900px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiceArti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%; max-width: 900px;" />
 </div>
